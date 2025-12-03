@@ -1,0 +1,7 @@
+USRPWD:
+
+create table usrpwd (username varchar(20), password varchar(20));
+
+STATS:
+
+create table stats (name varchar(30), place_of_origin varchar(30), year_of_joining int, car_number int, total_starts int, career_championships int, career_wins int, career_podiums int, career_pole_positions int, career_fastest_laps int, career_grand_slams int, total_points int, overall_rating int);
